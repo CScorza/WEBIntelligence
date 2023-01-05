@@ -1,4 +1,4 @@
-![Home](https://user-images.githubusercontent.com/98583912/210768781-6c066954-0f20-4f0d-b197-db9667954f5d.gif)
+![Home](https://user-images.githubusercontent.com/98583912/210824374-b5ba3098-eb9f-4d76-90ad-eb9612b3763d.gif)
 
 **INDICE**
 
@@ -110,8 +110,9 @@ dig www.google.com  |grep SERVER
 **Cos'è un IP?**
 ```
 Un indirizzo IP (dall'inglese Internet Protocol address) 
-– in informatica e nelle telecomunicazioni è un'etichetta numerica che identifica univocamente un dispositivo 
-detto host collegato a una rete informatica che utilizza l'Internet Protocol come protocollo di rete.
+– in informatica e nelle telecomunicazioni è un'etichetta numerica che identifica 
+univocamente un dispositivo detto host collegato a una rete informatica che utilizza 
+l'Internet Protocol come protocollo di rete.
 ```
 ![Ico](https://user-images.githubusercontent.com/98583912/210787644-acbb8229-87a6-432d-8aaf-cc23216c8580.gif)
 **Windows/CMD**
