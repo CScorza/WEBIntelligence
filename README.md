@@ -21,7 +21,7 @@ cioè un sistema che permette di convertire un nome a dominio ad un indirizzo IP
 | :---: | :---: | :---: | :---: | :---: |
 |[**VirusTotal**](https://www.virustotal.com/gui/home/url)|[**Pentest Tools**](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)|[**NMmapper - subdomainfinder**](https://www.nmmapper.com/sys/tools/subdomainfinder/)|[**Subdomain Finder**](https://subdomainfinder.c99.nl/)|[**SubDomains**](https://securitytrails.com/)|
 
-|[**Github - CScorza Data-Protection/Verifica-dominio-IP**](https://github.com/CScorza/Data-Protection#verifica-dominio-ip)|
+|[**Verifica Dominio IP**](https://github.com/CScorza/Data-Protection#verifica-dominio-ip)|
 | :---: |
 
 # **Tool Whois** 
@@ -38,6 +38,9 @@ Wikipedia
 |![Shodan](https://user-images.githubusercontent.com/98583912/210769323-9ff92eb5-37a1-44cc-ae15-e4de711a216e.gif)|[**Shodan.io**](https://www.shodan.io/)|**Motore di ricerca al mondo per dispositivi connessi a Internet.**|
 | :---: | :---: | :---: |
 
+|[**Analisi Celle Telefoniche**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE#analisi-celle-telefoniche)|
+| :---: |
+
 ![Ico](https://user-images.githubusercontent.com/98583912/210787644-acbb8229-87a6-432d-8aaf-cc23216c8580.gif)
 **Whois Terminal**
 
@@ -53,9 +56,10 @@ sudo apt install whois
 whois example.com
 ```
 
-**Ricerca Reti**
+**Ricerca Reti Wifi**
 |![Wigle](https://user-images.githubusercontent.com/98583912/210771239-d44213a4-b657-40fa-98f7-2bad5d945b76.gif)|[**Wigle.net**](https://wigle.net/)|[**Android - Wigle.net**](https://play.google.com/store/apps/details?id=net.wigle.wigleandroid&hl=it&gl=US)|
 | :---: | :---: | :---: |
+|[**GitHub - GeoWifi**](https://github.com/GONZOsint/geowifi)|||
 
 **Visual Site Mapper**
 
@@ -139,9 +143,9 @@ Ifconfig
 
 **IP - Adress**
 
-|[**Whois DomainTools**](https://whois.domaintools.com/)|[**Metrics Torproject**](https://metrics.torproject.org/exonerator.html)|[**IPinfo**](https://ipinfo.io)|[**IPLocation**](https://www.iplocation.net/)|[**ShowMyIP**](https://www.showmyip.com/bulk-ip-lookup/)|
-| :---: | :---: | :---: | :---: | :---: |
-|[**ipapi - Bulk IP Lookup**](https://app.ipapi.co/bulk/)|[**Ripe**](https://www.ripe.net/)|[**Scamalytics**](https://scamalytics.com/)|||
+|[**Whois DomainTools**](https://whois.domaintools.com/)|[**Metrics Torproject**](https://metrics.torproject.org/exonerator.html)|[**IPinfo**](https://ipinfo.io)|[**IPLocation**](https://www.iplocation.net/)|
+| :---: | :---: | :---: | :---: |
+|[**ipapi - Bulk IP Lookup**](https://app.ipapi.co/bulk/)|[**Ripe**](https://www.ripe.net/)|[**Scamalytics**](https://scamalytics.com/)|[**ShowMyIP**](https://www.showmyip.com/bulk-ip-lookup/)|
 
 **Cache**
 
