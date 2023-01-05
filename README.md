@@ -3,7 +3,7 @@
 **INDICE**
 
 |[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|[**DARK WEB**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**Web Scraping**](https://github.com/CScorza/WEBIntelligence#web-scaping)|[**EMAIL - Tools**](https://github.com/CScorza/WEBIntelligence#email-tools)|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 # **Domains**
 
