@@ -2,7 +2,7 @@
 
 **INDICE**
 
-|[**Domains**]()|[**WHOIS**]()|[**DNS**]()|[**IP - Adress**]()|[**DATA Breach**]()|[**DARK WEB**]()|[**EMAIL - Tools**]()|
+|[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|[**DARK WEB**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**EMAIL - Tools**](https://github.com/CScorza/WEBIntelligence#email-tools)|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 # **Domains**
