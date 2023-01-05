@@ -99,6 +99,9 @@ dig www.google.com  |grep SERVER
 
 
 # **My IP Address**
+
+![Immagine14](https://user-images.githubusercontent.com/98583912/210816223-13d74c1c-f17f-42c1-b687-c137afd96caf.gif)
+
 |[**whatismyipaddress**](https://whatismyipaddress.com/)|[**IPfingerPrints**](https://www.ipfingerprints.com/)|
 | :---: | :---: |
 
