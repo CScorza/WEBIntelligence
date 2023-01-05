@@ -2,7 +2,7 @@
 
 **INDICE**
 
-|[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|[**DARK WEB**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**EMAIL - Tools**](https://github.com/CScorza/WEBIntelligence#email-tools)|
+|[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|[**DARK WEB**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**Web Scraping**](https://github.com/CScorza/WEBIntelligence#web-scaping)|[**EMAIL - Tools**](https://github.com/CScorza/WEBIntelligence#email-tools)|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 # **Domains**
@@ -178,7 +178,7 @@ La cache del browser è relativamente piccola rispetto ai molti altri tipi di da
 | :---: | :---: | :---: | :---: |
 |[**Binary Edge**](https://app.binaryedge.io/)|[**Threat Intelligence Platform**](https://threatintelligenceplatform.com/)|[**Fake Spot**](https://www.fakespot.com/)|[**URLvoid**](https://www.urlvoid.com/)|[**Mx Tool Box**](https://mxtoolbox.com/)|[**Censys**](https://censys.io/)|||
 
-**Web Scaping**
+# **Web Scaping**
 
 Cos'è il Web Scraping?
 ```
