@@ -175,6 +175,19 @@ La cache del browser è relativamente piccola rispetto ai molti altri tipi di da
 | :---: | :---: | :---: | :---: |
 |[**Binary Edge**](https://app.binaryedge.io/)|[**Threat Intelligence Platform**](https://threatintelligenceplatform.com/)|[**Fake Spot**](https://www.fakespot.com/)|[**URLvoid**](https://www.urlvoid.com/)|[**Mx Tool Box**](https://mxtoolbox.com/)|[**Censys**](https://censys.io/)|||
 
+**Web Scaping**
+
+Cos'è il Web Scraping?
+```
+Il web scraping è una tecnica informatica di estrazione di dati da un sito web per mezzo di programmi software. 
+Di solito, tali programmi simulano la navigazione umana nel World Wide Web utilizzando 
+l'Hypertext Transfer Protocol o attraverso browser, come Internet Explorer o Mozilla Firefox.
+```
+|[**Github - max-08/Strumenti per il Web Scaping**](https://github.com/max-08?tab=repositories)|
+| :---: |
+
+|[**Guida**](https://www.cybersecurity360.it/legal/screen-scraping-la-tecnica-del-raschiare-dati-dai-siti-web-quando-e-lecita-e-come-tutelarsi/)|
+| :---: |
 # **DATA Breach**
 
 **Cos'è un Data Breach?**
