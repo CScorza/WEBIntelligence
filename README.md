@@ -21,6 +21,9 @@ cioè un sistema che permette di convertire un nome a dominio ad un indirizzo IP
 | :---: | :---: | :---: | :---: | :---: |
 |[**VirusTotal**](https://www.virustotal.com/gui/home/url)|[**Pentest Tools**](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)|[**NMmapper - subdomainfinder**](https://www.nmmapper.com/sys/tools/subdomainfinder/)|[**Subdomain Finder**](https://subdomainfinder.c99.nl/)|[**SubDomains**](https://securitytrails.com/)|
 
+|[**Github - CScorza Data-Protection/Verifica-dominio-IP**](https://github.com/CScorza/Data-Protection#verifica-dominio-ip)|
+| :---: |
+
 # **Tool Whois** 
 
 **Cos'è Whois?**
@@ -259,3 +262,4 @@ Un concetto simile è la "fuga di informazioni".
 
 |[**MXTool**](https://mxtoolbox.com/)|
 | :---: |
+|[**Github - CScorza Data-Protection/Verifica-email**](https://github.com/CScorza/Data-Protection#verifica-email)|
