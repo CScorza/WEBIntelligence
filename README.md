@@ -2,8 +2,9 @@
 
 **INDICE**
 
-|[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|[**DARK WEB**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**Web Scraping**](https://github.com/CScorza/WEBIntelligence#web-scaping)|[**EMAIL - Tools**](https://github.com/CScorza/WEBIntelligence#email-tools)|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|
+| :---: | :---: | :---: | :---: | :---: |
+[**DARK WEB**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**Web Scraping**](https://github.com/CScorza/WEBIntelligence#web-scaping)|[**Analisi Forense della Rete**](https://github.com/CScorza/WEBIntelligence#wireshark)|[**EMAIL - Tools**](https://github.com/CScorza/WEBIntelligence#email-tools)|
 
 # **Domains**
 
@@ -218,6 +219,35 @@ Un concetto simile è la "fuga di informazioni".
 |[**GUIDA**](https://www.agendadigitale.eu/sicurezza/data-breach-nel-gdpr-cose-e-cosa-sapere-per-segnalazione-e-prevenzione/)|
 | :---: |
 
+![WireShark](https://user-images.githubusercontent.com/98583912/211201290-01467ed4-ece3-4417-9574-fe643237726b.gif)
+# **WireShark**
+
+![Immagine1](https://user-images.githubusercontent.com/98583912/211200787-aac719e1-abf7-44bc-87f6-a852e21f3514.gif)
+```
+Wireshark è uno strumento di analisi del traffico di rete che ti permette 
+di monitorare e analizzare i pacchetti di dati che viaggiano sulla tua rete. 
+Una volta installato, Wireshark ti offre una serie di opzioni per filtrare e visualizzare il traffico 
+in modo da poter individuare eventuali problemi o anomalie.
+Per utilizzare Wireshark, prima di tutto devi selezionare l'interfaccia di rete che vuoi monitorare. 
+Una volta selezionata l'interfaccia, Wireshark inizierà a catturare tutti 
+i pacchetti di dati che transitano su di essa e li visualizzerà nella finestra principale dell'applicazione.
+È possibile utilizzare i filtri di Wireshark per visualizzare solo i pacchetti di interesse. 
+Ad esempio, puoi filtrare per protocollo, indirizzo IP, porta o qualsiasi altro campo dei pacchetti. 
+Inoltre, puoi utilizzare Wireshark per eseguire l'analisi del traffico in tempo reale 
+o caricare un file di cattura precedentemente salvato per l'analisi.
+
+```
+|1-|Avvia Wireshark e seleziona l'interfaccia di rete che vuoi monitorare dall'elenco a discesa nella barra degli strumenti.|
+| :--- | :--- |
+|2-|Fai clic sul pulsante "Inizia" per avviare la cattura dei pacchetti.|
+|3-|Wireshark visualizzerà i pacchetti di dati in tempo reale nella finestra principale dell'applicazione.|
+|4-|Utilizza i filtri di Wireshark per visualizzare solo i pacchetti di interesse. Ad esempio, puoi filtrare per indirizzo IP, porta o qualsiasi altro campo dei pacchetti.|
+|5-|Fai clic sui pacchetti individuali per visualizzare i dettagli del contenuto del pacchetto.|
+|6-|Utilizza le opzioni di visualizzazione di Wireshark per modificare il modo in cui i pacchetti vengono visualizzati. Ad esempio, puoi utilizzare la visualizzazione a albero per esplorare il contenuto dei pacchetti in modo dettagliato.|
+|7-|Quando hai finito di catturare i pacchetti, fai clic sul pulsante "Ferma" per interrompere la cattura.|
+|8-|Se desideri salvare i pacchetti catturati per un'analisi successiva, utilizza il comando "Salva con nome" dal menu File.|
+
+
 # **EMAIL TOOLS**
 
 ![Email](https://user-images.githubusercontent.com/98583912/210804352-2c0ccb93-15f2-4839-b42a-8fb17deb34f0.gif)
@@ -236,8 +266,6 @@ Un concetto simile è la "fuga di informazioni".
 - Selezionare la casella di controllo Track.
 - Fare clic su Inviare.
 ```
-
-**Analisi Forense di un' Email**
 
 **Guida**
 
