@@ -219,8 +219,8 @@ Un concetto simile è la "fuga di informazioni".
 |[**GUIDA**](https://www.agendadigitale.eu/sicurezza/data-breach-nel-gdpr-cose-e-cosa-sapere-per-segnalazione-e-prevenzione/)|
 | :---: |
 
-![WireShark](https://user-images.githubusercontent.com/98583912/211201290-01467ed4-ece3-4417-9574-fe643237726b.gif)
 # **WireShark**
+![WireShark](https://user-images.githubusercontent.com/98583912/211201290-01467ed4-ece3-4417-9574-fe643237726b.gif)
 
 ![Immagine1](https://user-images.githubusercontent.com/98583912/211200787-aac719e1-abf7-44bc-87f6-a852e21f3514.gif)
 ```
