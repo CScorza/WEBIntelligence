@@ -1,5 +1,7 @@
 ![Home](https://user-images.githubusercontent.com/98583912/210824374-b5ba3098-eb9f-4d76-90ad-eb9612b3763d.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
 **INDICE**
 
 |[**Domains**](https://github.com/CScorza/WEBIntelligence#domains)|[**WHOIS**](https://github.com/CScorza/WEBIntelligence#tool-whois)|[**DNS**](https://github.com/CScorza/WEBIntelligence#dns)|[**IP - Adress**](https://github.com/CScorza/WEBIntelligence#my-ip-address)|[**DATA Breach**](https://github.com/CScorza/WEBIntelligence#data-breach)|
