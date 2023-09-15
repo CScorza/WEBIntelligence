@@ -257,9 +257,9 @@ o caricare un file di cattura precedentemente salvato per l'analisi.
 
 **Strumenti per la Verifica dell'Email**
 
-|[**Hunter**](https://hunter.io/email-verifier)|[**Rocket Reach**](https://rocketreach.co/)|[**Findemails**](https://www.findemails.com/)|[**Email-Format**](https://www.email-format.com/)|[**Captain Verify**](https://captainverify.com/it/mail-tester.html)|
-| :---: | :---: | :---: | :---: | :---: |
-|[**Data Occrp.org**](https://data.occrp.org/)|[**Psbdmp**](https://psbdmp.ws/)|[**Whoxy**](https://www.whoxy.com/reverse-whois/)|[**Lullar**](http://com.lullar.com/)|[**Verifalia**](https://verifalia.com/validate-email)|
+|[**Hunter**](https://hunter.io/email-verifier)|[**Rocket Reach**](https://rocketreach.co/)|[**Findemails**](https://www.findemails.com/)|[**Email-Format**](https://www.email-format.com/)|[**Captain Verify**](https://captainverify.com/it/mail-tester.html)|[**Leakpeek**](https://leakpeek.com/)|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[**Data Occrp.org**](https://data.occrp.org/)|[**Psbdmp**](https://psbdmp.ws/)|[**Whoxy**](https://www.whoxy.com/reverse-whois/)|[**Lullar**](http://com.lullar.com/)|[**Verifalia**](https://verifalia.com/validate-email)||
 
 **Come Tracciare un E-mail - Gmail?**
 ```
