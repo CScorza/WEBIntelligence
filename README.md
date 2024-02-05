@@ -67,13 +67,14 @@ whois example.com
 
 **Visual Site Mapper**
 
-|![mapper](https://user-images.githubusercontent.com/98583912/210772260-3bfe07e7-ba71-4991-a0d7-5c99018f78f5.gif)|[**Visual Site Mapper**](http://www.visualsitemapper.com/)|[**Power Mapper - Visual Site Maps**](https://www.powermapper.com/products/mapper/ads/visual-site-maps/)|[**Maltego**](https://www.maltego.com/)|
+|![mapper](https://user-images.githubusercontent.com/98583912/210772260-3bfe07e7-ba71-4991-a0d7-5c99018f78f5.gif)|[**Visual Site Mapper**](http://www.visualsitemapper.com/)|[**Power Mapper - Visual Site Maps**](https://www.powermapper.com/products/mapper/ads/visual-site-maps/)|[**Maltego**](https://www.maltego.com/)|[**App Diagrams.net**](https://app.diagrams.net/)|
 | :---: | :---: | :---: | :---: |
 
 **Modifiche e Storico Web**
 
-|![Internet Archive](https://user-images.githubusercontent.com/98583912/210772940-17ba68bb-7590-47ed-809c-c97c4d35d7be.gif)|[**Internet Archive**](https://archive.org)|[**VisualPing**](https://visualping.io)|[**Archive.is**](https://archive.is/)|[**Cachedview**](https://cachedview.nl/)|[**theoldnet**](https://theoldnet.com/)|
-| :---: | :---: | :---: | :---: | :---: |
+|![Internet Archive](https://user-images.githubusercontent.com/98583912/210772940-17ba68bb-7590-47ed-809c-c97c4d35d7be.gif)|[**Internet Archive**](https://archive.org)|[**VisualPing**](https://visualping.io)|
+| :---: | :---: | :---: |
+|[**Archive.is**](https://archive.is/)|[**Cachedview**](https://cachedview.nl/)|[**theoldnet**](https://theoldnet.com/)|
 
 
 # **DNS**
