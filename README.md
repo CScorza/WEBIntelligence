@@ -72,8 +72,8 @@ whois example.com
 
 **Modifiche e Storico Web**
 
-|![Internet Archive](https://user-images.githubusercontent.com/98583912/210772940-17ba68bb-7590-47ed-809c-c97c4d35d7be.gif)|[**Internet Archive**](https://archive.org/)|[**VisualPing**](https://visualping.io/)|
-| :---: | :---: | :---: |
+|![Internet Archive](https://user-images.githubusercontent.com/98583912/210772940-17ba68bb-7590-47ed-809c-c97c4d35d7be.gif)|[**Internet Archive**](https://archive.org)|[**VisualPing**](https://visualping.io)|[**Archive.is**](https://archive.is/)|[**Cachedview**](https://cachedview.nl/)|[**theoldnet**](https://theoldnet.com/)|
+| :---: | :---: | :---: | :---: | :---: |
 
 
 # **DNS**
