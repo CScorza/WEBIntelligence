@@ -68,7 +68,7 @@ whois example.com
 **Visual Site Mapper**
 
 |![mapper](https://user-images.githubusercontent.com/98583912/210772260-3bfe07e7-ba71-4991-a0d7-5c99018f78f5.gif)|[**Visual Site Mapper**](http://www.visualsitemapper.com/)|[**Power Mapper - Visual Site Maps**](https://www.powermapper.com/products/mapper/ads/visual-site-maps/)|[**Maltego**](https://www.maltego.com/)|[**App Diagrams.net**](https://app.diagrams.net/)|
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 
 **Modifiche e Storico Web**
 
