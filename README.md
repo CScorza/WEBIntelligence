@@ -216,7 +216,7 @@ Un concetto simile è la "fuga di informazioni".
 |[**Psbdmp**](https://psbdmp.ws//)|[**OffShore Leaks**](https://offshoreleaks.icij.org/)|[**Search WeleakInfo**](https://search.weleakinfo.com/search)|[**Vigilante**](https://www.vigilante.pw/)|[**NuclearLeaks**](https://nuclearleaks.com/)|
 | :---: | :---: | :---: | :---: | :---: |
 |[**Md5Hashing**](https://md5hashing.net/)|[**Crack Station**](https://crackstation.net/)|[**Spy Cloud**](https://spycloud.com/)|[**Leak-Lookup**](https://leak-lookup.com/)|[**Isc SANS edu**](https://isc.sans.edu/tools/reversehash.html)|
-|[**Online Hash Crack**](https://www.onlinehashcrack.com/)|[**Iznformationisbeautiful**](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)|[**Raid Forums**](https://raidforums.com/)|[**Data Bases Today**](https://databases.today/)|
+|[**Online Hash Crack**](https://www.onlinehashcrack.com/)|[**Iznformationisbeautiful**](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)|[**Raid Forums**](https://raidforums.com/)|[**Data Bases Today**](https://databases.today/)| [**Hudson Rock**](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) |
 
 **Data breach nel GDPR: cos’è e come fare segnalazione e prevenzione**
 
