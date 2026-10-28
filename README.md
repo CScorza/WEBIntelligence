@@ -116,6 +116,7 @@ dig www.google.com  |grep SERVER
 
 |[**whatismyipaddress**](https://whatismyipaddress.com/)|[**IPfingerPrints**](https://www.ipfingerprints.com/)|
 | :---: | :---: |
+|[**ShieldLabs Anonymity Checker**](https://demo.shieldlabs.ai/anonymity-checker)| |
 
 **My IP Terminal**
 
